@@ -1,7 +1,7 @@
 #!/bin/bash
 
 read -p "Storage Box Name: " BOX_NAME
-read -p "Storage Box Benutzername (z.B. u123456): " BOX_USER
+read -p "Storage Box Benutzername (z.B. uXXXXXX): " BOX_USER
 read -s -p "Storage Box Passwort: " BOX_PASS
 echo ""
 
